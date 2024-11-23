@@ -1,0 +1,555 @@
+body{
+    top: 0;
+    margin: 0;
+    width: 100%;
+    background-color: rgb(236, 236, 236);
+}
+
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: greenyellow;
+    
+}
+
+.navbar{
+    display: flex;
+    gap: 80px;
+    font-size: 30px;
+    margin-left: 400px;
+   
+    
+}
+
+.navbar a{
+    margin-top: 50px;
+}
+
+
+.bg-text{
+    background-image:linear-gradient(#8c8e8cb4,rgb(29, 104, 36)),url(images/desk-img.jpg);
+    background-size:cover ;
+    height: 600px;
+    background-image: cover;
+    color: white;
+    text-align:start;
+    font-size: 40px;
+    padding-top: 100px;
+    background-size: contain;
+    padding-left: 80px;
+}
+
+.bg-text h5{
+    color: rgb(255, 86, 30);
+}
+
+
+
+.bg-text button{
+    width: 170px;
+    height: 60px;
+    background-color: yellow;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer; 
+    font: bold;
+}
+
+
+
+
+.model img{
+    width: 400px;
+    height: 600px;
+    padding-top:30px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
+.segment-one{
+display: flex;
+justify-content: space-around;
+text-align: center;
+width: 1700px;
+height: 900px;
+border-radius: 30px;
+background-color: lightgreen;
+margin: 200px auto 300px;
+border: solid 7px rgb(227, 255, 42);
+}
+
+
+.segment-1{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(192, 255, 213);
+    border: 2px solid green;
+    margin-top: -100px;
+    border-radius: 30px;
+    background-image: url(images/green-interior-design\ \(1\)\ -\ Copy.jpg);
+    background-size: cover;
+    font-size: 30px;
+}
+
+
+.segment-2{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(192, 255, 213);
+    border: 2px solid green;
+    margin-top: -100px;
+    border-radius: 30px;
+    background-image: url(images/images\ \(21\).jpeg);
+    color: rgb(200, 64, 198);
+    font-size: 30px;
+}
+
+
+
+.segment-3{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(192, 255, 213);
+    border: 2px solid green;
+    margin-top: -100px;
+    border-radius: 30px;
+    background-image: url(images/images\ \(20\).jpeg);
+    display: inline-block;
+    background-size: cover;
+    color: rgb(53, 21, 255);
+    font-size: 30px;
+}
+
+
+.segment-one button{
+    background-color: rgb(255, 93, 93);
+    width: 200px;
+    height: 70px;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.text{
+    width: 700px;
+    height: 100px;
+    background-color: rgb(255, 134, 134);
+    margin-left: 600px;
+    text-align: CENTER;
+    padding-top:30px ;
+}
+
+.gallary-1 img {
+    margin-bottom: 100px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 20%;
+
+}
+
+
+
+.gallary-2 img{
+    margin-bottom: 100px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+}
+
+.gallary-3 img{
+    margin-bottom: 500px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 20%;
+}
+
+
+
+.content{
+    margin-top: 70px;
+}
+
+
+.content-1{
+    text-align: center;
+    align-items: center;
+   
+}
+
+
+.segment-two{
+    display:flex;
+    justify-content: space-around;
+   
+    height: 200px;
+    margin-bottom: 50px;
+
+    
+ 
+}
+
+
+.segment-three{
+    display:flex;
+    justify-content: space-around;
+   
+    height: 200px;
+ 
+}
+
+
+
+.segment-two  .item-1{
+    text-align: center;
+}
+
+.segment-three .item-1 {
+    text-align: center;
+}
+
+
+
+
+.remark-1{
+margin-left: 100px;
+    
+}
+
+.remark-2{
+    margin-right: 200px;
+    margin-top: 200px;
+}
+
+.sunday h3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(2, 103, 5);
+}
+.client{
+margin-bottom: 80px;
+width: 500px;
+height: 200px;
+}
+
+.michelli{
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    margin-top: -30px;
+   padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.comment{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.sunday{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-top: -30px;
+   padding-left: 30px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+.monday{
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    margin-top: -30px;
+   padding-left: 30px;
+    padding-top: 10px;
+    margin-top: 40px;
+
+}
+
+
+.item-1 i {
+    color: rgb(23, 128, 11); 
+}
+
+
+
+
+
+.footer{
+    align-items: center;
+    padding-left: 40px;
+    background-image:linear-gradient(#8c8e8cb4,rgb(29, 104, 36)),url(images/desk-img.jpg);
+    height: 500px;
+    font-size: 35px;
+    margin-top: 200px;
+    color: rgb(2, 28, 87);
+    
+}
+
+
+.heading{
+    display: flex;
+    gap:50px;
+}
+
+
+.social-handle{
+    padding-left: 100px;
+}
+
+.network{
+    display: flex;
+    gap: 50px;
+  
+   
+}
+.network h2{
+    justify-content: space-between;
+ 
+}
+
+
+/* CSS FOR ABOUTUS PAge */
+.article{
+    font-size: 20px;
+}
+
+ .about-us {
+    background-color: rgb(255, 139, 139);
+    width: 700px;
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 80px;
+ }
+
+.notable-one{
+    display: flex;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    gap: 60px;
+    padding-left: 30px;
+    
+}
+
+
+.notable-1{
+    padding-right: 20px;
+    background-color: yellow;
+}
+
+
+.notable-2{
+    padding-right: 20px;
+    background-color: rgb(255, 101, 29);
+}
+
+.notable-3{
+    padding-right: 20px;
+    background-color: rgb(255, 41, 41);
+}
+
+.notable-4{
+    padding-right: 20px;
+    background-color: yellow;
+}
+
+
+
+
+.notable-two{
+    display: flex;
+    padding: 40px 40px 0px 20px;
+    gap: 60px;
+    margin-right: 50px;
+}
+
+.contribution{
+    width: 1600px;
+    padding: 90px;
+    background-color: rgb(255, 215, 215);
+    margin-top: 150px;
+    margin-left: 80px;
+}
+
+.alright{
+    display: flex;
+}
+
+
+
+/*------- COMMENT FOR TEAM CLASS----------*/
+.team{
+    margin-top: 90px;
+}
+
+
+.team img{
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    text-align: center;
+
+}
+.team h1{
+   text-align: center;
+   align-items: center;
+    width: 400px;
+    height: 80px;
+    background-color: rgb(255, 138, 48);
+    margin-left: 700px;
+
+}
+
+.contact{
+    width: 700px;
+    height: 200px;
+    background-color: rgb(255, 134, 134);
+    justify-content: center;
+    align-items: center;
+    margin-left: 700px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 50px;
+    
+}
+
+.contact-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: center ;
+   
+}
+
+.contact-1 h1{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(255, 72, 218);
+    text-align: center;
+    
+}
+
+
+
+
+.news-one{
+    width: 80%;
+    height: 700px;
+    background-color: lightgreen;
+    display: flex;
+    gap: 60px;
+    margin-left: 200px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.news-1{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(214, 255, 214);
+    margin-left: 120px;
+}
+
+.news-2{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(214, 255, 214);
+    margin-left: 120px;
+}
+
+.news-3{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(106, 238, 106);
+    margin-left: 120px;
+}
+
+.news-4{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(106, 238   , 106);
+    margin-left: 120px;
+}
+
+.news-5{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(106, 238, 106);
+    margin-left: 120px;
+}
+
+.news-two{
+    display: flex;
+    margin-top: 100px;
+     height: 800px;
+    background-color:rgb(225, 255, 212);
+    align-items: center;  
+}
+
+.news-two button{
+    width: 200px;
+    height: 80px;
+    background-color: greenyellow;
+    margin-top: 20px;
+    border: none;
+    font-size: 20px;
+}
+
+
+
+/*--------for sign up-------*/
+.link{
+    width: 700px;
+    height: 200px;
+    background-color: rgb(255, 146, 146);
+    margin-top: 100px;
+    margin-left: 600px;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+@media(max-width : 768px) {
+
+    html{
+        font-size: 50%;
+    }
+
+    .header{
+        padding:  2rem;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top: 100%;
+        left: 100%;
+        right: 0;
+        background: var(--maincolor);
+    }
+
+    .header .navbar a{
+        display: block;
+        margin: 1rem;
+        padding: 1rem;
+        background: white;
+        border-radius: 10px;
+    }
+}
+
